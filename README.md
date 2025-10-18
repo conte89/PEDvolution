@@ -1,9 +1,9 @@
 # PEDvolution
-Positive energy district evolution: A test case forWinterthur’s Hard Community.
+_Positive energy district evolution: A test case forWinterthur’s Hard Community._
 
-In this repository: Article publication + Excel dashboard.
+In this repository: **Article publication** + **Excel dashboard**.
 
-Abstract:
+**Abstract:**
 This study investigates the development and implementation of Positive Energy Districts (PEDs), focusing on the Hard
 Community in Winterthur, Switzerland. PEDs are urban areas designed to achieve a net-positive energy balance by
 integrating renewable energy sources and energy-efficient technologies, thus contributing to reducing greenhouse gas
